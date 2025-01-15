@@ -4,6 +4,11 @@ Este projeto tem como objetivo modelar o sistema de controle e gerenciamento de 
 
 ---
 
+## Screenshots do Diagrama
+
+![Modelo do Esquema](https://github.com/rogerio1kg/oficinadio/blob/main/ED_OFICINA-DIO.png)
+
+
 ## Estrutura do Banco de Dados
 
 ### Tabelas
